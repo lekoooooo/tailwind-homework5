@@ -15,12 +15,11 @@ const App = () => {
           Shop now
         </a>
       </div>
-      <div className="flex flex-1 justify-end">
-        <img src="./src/img/tefshi.png" alt="christmas" />
+      <div className="flex flex-1">
+        <img src="./tefshi.png" alt="christmas" />
       </div>
     </div>
   );
 };
 
 export default App;
-// rightSide  lg:flex-1 lg:justify-center lg:items-center gap-[24px] text-center flex flex-col justify-center gap-[24px] bg-[#F8F8F8] w-full lg:w-full max-w-[430px] lg:max-w-[1440px] lg:h-[348px] min-h-[668px]
