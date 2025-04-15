@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+@font-face {
+  font-family: "garamond", "inter", "georgia";
+  src: url("src/fonts/garamond");
+  src: url("src/fonts/inter");
+  src: url("src/fonts/georgia");
+}
+body {
+  font-family: "garamond", "inter", "georgia";
+}

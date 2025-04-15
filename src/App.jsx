@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div className="flex lg:flex-row flex-col items-center gap-[24px] bg-[#F8F8F8] m-auto max-w-[1440px] h-auto lg:h-[348px]">
       <div className="flex flex-col flex-1 justify-center items-center gap-[24px] px-6 lg:px-20 text-center">
-        <h2 className="flex font-family: var(--font-garamond) font-bold text-[#3A3845] text-[28px] uppercase">
+        <h2 className="flex font-[garamond] font-family: var(--font-garamond) lg:font-[georgia] font-bold text-[#3A3845] text-[28px] uppercase">
           Up to 40% off our Christmas collection
         </h2>
         <p className="text-[#595667]">
